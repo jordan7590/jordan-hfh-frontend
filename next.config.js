@@ -1,6 +1,6 @@
 const nextConfig = {
   env: {
-    API_URL: "http://localhost:4000/graphql",
+    API_URL: "http://34.238.162.105:4000/graphql",
   },
   reactStrictMode: true,
   webpack(config, options) {
